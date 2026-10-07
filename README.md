@@ -74,19 +74,6 @@ The analysis highlights clear opportunities:
 - Investigate why some high-sales products still generate losses.
 - Leverage the strong Q4 seasonality and weekend/weekday patterns for promotional planning.
 
-## Project Structure
-📁 Superstore-Sales-Analysis
-├── Sample - Superstore.xls          # Main analysis workbook
-│   ├── Orders                       # Cleaned transactional data + calculated columns
-│   ├── PivotTables&Charts           # All major pivot tables & charts
-│   ├── KPI                          # Key Performance Indicators
-│   ├── Report                       # Supporting summary
-│   ├── Returns                      # Returned orders
-│   ├── People                       # Regional managers
-│   └── Practice                     # Formula practice & helper calculations
-└── README.md                        # This file
-
-
 
 ## How to Use
 
@@ -105,9 +92,6 @@ Data Analyst | Excel | Power BI | SQL
 ---
 
 *This project demonstrates strong Excel skills in data cleaning, Pivot Table design, business metric calculation and insight generation – exactly the kind of work expected from a Business / Data Analyst role.*
-
-
-
 
 
 Screenshots / Demos
