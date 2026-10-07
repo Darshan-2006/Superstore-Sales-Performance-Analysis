@@ -96,4 +96,4 @@ Data Analyst | Excel | Power BI | SQL
 
 Screenshots / Demos
 Show what the dashboard looks like. Example:
-Dashboard_Preview.png
+https://github.com/Darshan-2006/Superstore-Sales-Performance-Analysis/blob/main/Dashboard_Preview.png
