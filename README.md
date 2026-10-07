@@ -105,3 +105,11 @@ Data Analyst | Excel | Power BI | SQL
 ---
 
 *This project demonstrates strong Excel skills in data cleaning, Pivot Table design, business metric calculation and insight generation – exactly the kind of work expected from a Business / Data Analyst role.*
+
+
+
+
+
+Screenshots / Demos
+Show what the dashboard looks like. Example:
+https://github.com/Darshan-2006/Superstore-Sales-Performance-Analysis/blob/main/Snapshot.png
